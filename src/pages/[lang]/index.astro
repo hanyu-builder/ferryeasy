@@ -1,0 +1,370 @@
+---
+// src/pages/[lang]/index.astro
+// 🔴 修正點：這裡只需要兩層 '../'
+import { getRoutes, getSchedules } from '../../lib/ferryData';
+import holidays from '../../data/holidays.json';
+import { ui, languages } from '../../i18n/ui';
+
+// 1. 生成雙語路徑
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'en' } },
+    { params: { lang: 'zh-hk' } },
+  ];
+}
+
+const { lang } = Astro.params;
+const t = ui[lang as keyof typeof ui]; // 翻譯 helper
+const isEn = lang === 'en'; // 判斷是否為英文
+
+// 語言切換設定
+const switchLang = isEn ? 'zh-hk' : 'en';
+const switchLabel = isEn ? '繁' : 'En';
+
+const allRoutes = getRoutes();
+const allSchedules = getSchedules();
+
+const allLocations = new Set();
+allRoutes.forEach(r => {
+    // 根據當前語言獲取地名
+    allLocations.add(isEn ? r.origin_en : r.origin_zh);
+    allLocations.add(isEn ? r.destination_en : r.destination_zh);
+});
+const uniqueLocations = [...allLocations].sort();
+---
+
+<!DOCTYPE html>
+<html class="dark" lang={lang}>
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>{t['site.title']} - Realtime</title>
+    <link href="https://fonts.googleapis.com" rel="preconnect"/>
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+    <style>
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #111318; }
+        ::-webkit-scrollbar-thumb { background: #282e39; border-radius: 3px; }
+    </style>
+</head>
+
+<body class="font-display bg-[#111318] text-white antialiased min-h-screen">
+    
+    <div id="data-store" 
+         data-routes={JSON.stringify(allRoutes)} 
+         data-schedules={JSON.stringify(allSchedules)}
+         data-holidays={JSON.stringify(holidays)}
+         data-lang={lang}
+         data-ui={JSON.stringify(t)}
+         class="hidden"></div>
+
+    <div class="relative min-h-screen w-full flex items-center justify-center overflow-hidden bg-[#111318]">
+        <div class="absolute inset-0 z-0">
+            <img class="w-full h-full object-cover opacity-40 blur-sm" src="https://images.unsplash.com/photo-1506318137071-a8bcbf90d177?q=80&w=2070&auto=format&fit=crop" />
+            <div class="absolute inset-0 bg-gradient-to-b from-[#111318]/90 via-[#111318]/80 to-[#111318]/90"></div>
+        </div>
+
+        <div class="relative z-10 flex h-full min-h-[100dvh] w-full max-w-[480px] flex-col bg-[#111318] shadow-2xl overflow-y-auto border-x border-[#282e39]">
+            
+            <header class="sticky top-0 z-20 flex items-center justify-between bg-[#111318]/95 backdrop-blur-md border-b border-[#282e39] px-5 py-4">
+                <div class="flex items-center gap-3 text-white">
+                    <div class="flex items-center justify-center size-8 rounded-full bg-primary/20 text-[#135bec]">
+                        <span class="material-symbols-outlined text-xl">directions_boat</span>
+                    </div>
+                    <h2 class="text-white text-lg font-bold">{t['site.title']}</h2>
+                </div>
+                <a href={`/${switchLang}/`} class="flex h-9 w-9 items-center justify-center rounded-lg bg-[#282e39] text-[#9da6b9] hover:text-white transition-colors border border-transparent hover:border-[#3b4354] font-bold text-xs">
+                    {switchLabel}
+                </a>
+            </header>
+
+            <main class="flex-1 flex flex-col p-5 gap-6">
+                
+                <section class="flex flex-col items-center justify-center py-2">
+                    <div class="text-center">
+                        <div class="flex items-baseline justify-center gap-1 text-white">
+                            <span id="clock-time" class="text-5xl font-extrabold tracking-tight tabular-nums">--:--</span>
+                            <span id="clock-sec" class="text-xl font-medium text-[#555e70] tabular-nums">--</span>
+                        </div>
+                        <p id="clock-date" class="mt-1 text-[#9da6b9] font-medium text-sm">{t['status.loading']}</p>
+                    </div>
+                </section>
+
+                <div class="flex flex-col gap-4 bg-[#1c1f27] p-5 rounded-2xl border border-[#3b4354] shadow-lg">
+                    <div class="flex flex-col gap-4 relative">
+                        <div class="relative w-full">
+                            <label class="text-[#9da6b9] text-[10px] font-bold uppercase tracking-wider mb-2 flex items-center gap-1">
+                                <span class="material-symbols-outlined text-sm">trip_origin</span> {t['input.origin']}
+                            </label>
+                            <div class="relative">
+                                <input id="search-origin" class="w-full bg-[#111318] border border-[#3b4354] text-white text-sm font-medium rounded-xl h-12 px-4 pl-10 focus:outline-none focus:border-[#135bec] focus:ring-1 focus:ring-[#135bec] transition-colors" list="locations-list" placeholder={t['placeholder.origin']} type="text" autocomplete="off"/>
+                                <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-[#555e70]">search</span>
+                                <button id="clear-origin" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-[#555e70]"><span class="material-symbols-outlined text-sm">close</span></button>
+                            </div>
+                        </div>
+                        
+                        <div class="relative w-full">
+                            <label class="text-[#9da6b9] text-[10px] font-bold uppercase tracking-wider mb-2 flex items-center gap-1">
+                                <span class="material-symbols-outlined text-sm">location_on</span> {t['input.dest']}
+                            </label>
+                            <div class="relative">
+                                <input id="search-dest" class="w-full bg-[#111318] border border-[#3b4354] text-white text-sm font-medium rounded-xl h-12 px-4 pl-10 focus:outline-none focus:border-[#135bec] focus:ring-1 focus:ring-[#135bec] transition-colors" list="locations-list" placeholder={t['placeholder.dest']} type="text" autocomplete="off"/>
+                                <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-[#555e70]">search</span>
+                                <button id="clear-dest" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-[#555e70]"><span class="material-symbols-outlined text-sm">close</span></button>
+                            </div>
+                        </div>
+                        <datalist id="locations-list">{uniqueLocations.map(loc => <option value={loc}></option>)}</datalist>
+                    </div>
+                </div>
+
+                <section class="flex flex-col flex-1">
+                    <div class="flex items-center justify-between mb-4 px-1 mt-2">
+                        <h3 id="list-title" class="text-white text-lg font-bold">{t['header.next_departures']}</h3>
+                        <span id="list-subtitle" class="text-[#555e70] text-xs font-medium">{t['subtitle.global']}</span>
+                    </div>
+                    
+                    <div id="dynamic-results" class="flex flex-col gap-3">
+                        <div class="p-8 text-center text-[#555e70]">{t['status.loading']}</div>
+                    </div>
+                </section>
+
+            </main>
+        </div>
+    </div>
+
+    <script>
+        const dataStore = document.getElementById('data-store');
+        const ROUTES = JSON.parse(dataStore.getAttribute('data-routes'));
+        const SCHEDULES = JSON.parse(dataStore.getAttribute('data-schedules'));
+        const HOLIDAYS = new Set(JSON.parse(dataStore.getAttribute('data-holidays')));
+        
+        // 獲取當前語言和翻譯字串
+        const LANG = dataStore.getAttribute('data-lang');
+        const UI = JSON.parse(dataStore.getAttribute('data-ui'));
+        const IS_EN = LANG === 'en';
+
+        const originInput = document.getElementById('search-origin');
+        const destInput = document.getElementById('search-dest');
+        const resultsContainer = document.getElementById('dynamic-results');
+        const listTitle = document.getElementById('list-title');
+        const listSubtitle = document.getElementById('list-subtitle');
+        const clearOriginBtn = document.getElementById('clear-origin');
+        const clearDestBtn = document.getElementById('clear-dest');
+
+        function saveState() {
+            sessionStorage.setItem('fe_search_origin', originInput.value);
+            sessionStorage.setItem('fe_search_dest', destInput.value);
+        }
+
+        function restoreState() {
+            const savedOrigin = sessionStorage.getItem('fe_search_origin');
+            const savedDest = sessionStorage.getItem('fe_search_dest');
+            if (savedOrigin) originInput.value = savedOrigin;
+            if (savedDest) destInput.value = savedDest;
+            updateResults();
+        }
+
+        function timeToMinutes(timeStr) {
+            const [h, m] = timeStr.split(':').map(Number);
+            return h * 60 + m;
+        }
+
+        function isDayApplicable(dayType) {
+            const now = new Date();
+            const dateStr = now.toISOString().split('T')[0];
+            const day = now.getDay(); 
+            const isPh = HOLIDAYS.has(dateStr);
+            if (dayType === 'mon_sat') return day >= 1 && day <= 6 && !isPh;
+            if (dayType === 'sun_ph') return day === 0 || isPh;
+            if (dayType === 'mon_fri') return day >= 1 && day <= 5 && !isPh;
+            if (dayType === 'sat') return day === 6 && !isPh;
+            if (dayType === 'sat_sun_ph') return day === 0 || day === 6 || isPh;
+            return true;
+        }
+
+        function getFare(route, type) {
+            const now = new Date();
+            const dateStr = now.toISOString().split('T')[0];
+            const day = now.getDay();
+            const isPh = HOLIDAYS.has(dateStr);
+            const isHolidayType = (day === 0 || isPh);
+            if (type === 'fast') {
+                return isHolidayType ? route.fare_fast_holiday : route.fare_fast_weekday;
+            } else {
+                return isHolidayType ? route.fare_slow_holiday : route.fare_slow_weekday;
+            }
+        }
+
+        function renderCard(item, route) {
+            const now = new Date();
+            const currentMinutes = now.getHours() * 60 + now.getMinutes();
+            const departMinutes = timeToMinutes(item.time);
+            let diff = departMinutes - currentMinutes;
+            
+            const isInbound = item.direction === 'inbound';
+            
+            const originField = IS_EN ? 'origin_en' : 'origin_zh';
+            const destField = IS_EN ? 'destination_en' : 'destination_zh';
+            const operatorField = IS_EN ? 'operator_en' : 'operator_zh';
+
+            const displayOrigin = isInbound ? route[destField] : route[originField];
+            const displayDest = isInbound ? route[originField] : route[destField];
+            const displayOperator = route[operatorField];
+
+            const dirParam = isInbound ? 'inbound' : 'outbound';
+            const realFare = getFare(route, item.type);
+
+            let statusColor = "bg-emerald-500/10 text-emerald-500 border-emerald-500/20";
+            let statusText = UI['status.ontime'];
+            
+            if (diff <= 5) {
+                statusColor = "bg-red-500/10 text-red-500 border-red-500/20";
+                statusText = UI['status.closing'];
+            } else if (diff <= 15) {
+                statusColor = "bg-orange-500/10 text-orange-500 border-orange-500/20";
+                statusText = UI['status.boarding'];
+            } else if (item.type === 'fast') {
+                statusColor = "bg-yellow-500/10 text-yellow-500 border-yellow-500/20";
+                statusText = UI['status.fast'];
+            }
+
+            return `
+                <a href="/${LANG}/route/${route.route_id}?dir=${dirParam}" class="block group">
+                    <div class="flex items-center justify-between p-4 rounded-xl bg-[#1c1f27] border border-[#282e39] hover:border-[#3b4354] hover:bg-[#232730] transition-all hover:translate-x-1">
+                        <div class="flex items-center gap-4">
+                            <div class="flex flex-col items-center justify-center h-12 w-14 rounded-lg bg-[#282e39] text-white font-mono font-bold text-lg group-hover:text-[#135bec] transition-colors border border-[#3b4354]">
+                                ${item.time}
+                            </div>
+                            <div class="flex flex-col">
+                                <div class="flex items-center gap-2 mb-1">
+                                    <span class="text-white font-bold text-base leading-none">${displayOrigin}</span>
+                                    <span class="material-symbols-outlined text-[#555e70] text-xs">arrow_forward</span>
+                                    <span class="text-white font-bold text-base leading-none">${displayDest}</span>
+                                </div>
+                                <div class="flex gap-2 text-xs text-[#9da6b9]">
+                                    <span>${displayOperator}</span>
+                                    <span>•</span>
+                                    <span>$${realFare}</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex flex-col items-end gap-1">
+                             <span class="text-xs px-2 py-0.5 rounded-full border font-medium ${statusColor}">
+                                ${statusText}
+                            </span>
+                            <span class="text-[#555e70] text-[10px] font-bold">in ${diff} ${UI['text.min']}</span>
+                        </div>
+                    </div>
+                </a>
+            `;
+        }
+
+ function updateResults() {
+            saveState();
+            const now = new Date();
+            const currentMinutes = now.getHours() * 60 + now.getMinutes();
+            
+            const originVal = originInput.value.toLowerCase().trim();
+            const destVal = destInput.value.toLowerCase().trim();
+
+            clearOriginBtn.style.display = originVal ? 'block' : 'none';
+            clearDestBtn.style.display = destVal ? 'block' : 'none';
+
+            let results = [];
+
+            if (!originVal) {
+                listTitle.innerText = UI['header.next_departures'];
+                listSubtitle.innerText = UI['subtitle.global'];
+            } else {
+                listTitle.innerText = UI['header.upcoming'];
+                listSubtitle.innerText = UI['subtitle.filtered'];
+            }
+
+            SCHEDULES.forEach(schedule => {
+                const route = ROUTES.find(r => r.route_id === schedule.route_id);
+                if (!route) return;
+
+                const isInbound = schedule.direction === 'inbound';
+                
+                // 1. 準備所有可能的名稱 (英文 + 中文)
+                // 這樣無論用戶輸入 "Central" 還是 "中環"，我們都有資料可以比對
+                const originEn = isInbound ? route.destination_en : route.origin_en;
+                const originZh = isInbound ? route.destination_zh : route.origin_zh;
+                const destEn = isInbound ? route.origin_en : route.destination_en;
+                const destZh = isInbound ? route.origin_zh : route.destination_zh;
+
+                // 2. 搜尋邏輯：檢查 (英文名稱 OR 中文名稱) 是否包含輸入字串
+                const matchOrigin = !originVal || 
+                                    originEn.toLowerCase().includes(originVal) || 
+                                    originZh.includes(originVal);
+                                    
+                const matchDest = !destVal || 
+                                  destEn.toLowerCase().includes(destVal) || 
+                                  destZh.includes(destVal);
+                
+                // 3. 日子檢查 (保持不變)
+                if (matchOrigin && matchDest && isDayApplicable(schedule.day_type)) {
+                    const scheduleTime = timeToMinutes(schedule.time);
+                    
+                    let isVisible = false;
+                    if (!originVal) {
+                        if (scheduleTime > currentMinutes) isVisible = true;
+                    } else {
+                        if (scheduleTime > currentMinutes && scheduleTime <= currentMinutes + 120) isVisible = true;
+                    }
+
+                    if (isVisible) {
+                        results.push({ ...schedule, route, sortTime: scheduleTime });
+                    }
+                }
+            });
+
+            results.sort((a, b) => a.sortTime - b.sortTime);
+
+            if (!originVal) {
+                results = results.slice(0, 10);
+            }
+
+            if (results.length === 0) {
+                resultsContainer.innerHTML = `
+                    <div class="p-10 text-center flex flex-col items-center justify-center opacity-50">
+                        <span class="material-symbols-outlined text-4xl mb-2">sailing</span>
+                        <p>${UI['status.no_data']}</p>
+                    </div>`;
+            } else {
+                resultsContainer.innerHTML = results
+                    .map(item => renderCard(item, item.route))
+                    .join('');
+            }
+        }
+
+        originInput.addEventListener('input', updateResults);
+        destInput.addEventListener('input', updateResults);
+        clearOriginBtn.addEventListener('click', () => { originInput.value = ''; updateResults(); });
+        clearDestBtn.addEventListener('click', () => { destInput.value = ''; updateResults(); });
+
+        function updateClock() {
+            const now = new Date();
+            document.getElementById('clock-time').innerText = 
+                `${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`;
+            document.getElementById('clock-sec').innerText = String(now.getSeconds()).padStart(2, '0');
+            
+            const dateOption = { weekday: 'long', year: 'numeric', month: 'short', day: 'numeric' };
+            const dateStr = now.toLocaleDateString(IS_EN ? 'en-US' : 'zh-HK', dateOption);
+            
+            document.getElementById('clock-date').innerHTML = `
+                <span class="material-symbols-outlined text-base">calendar_today</span>
+                ${dateStr}
+            `;
+            if (now.getSeconds() === 0) updateResults();
+        }
+
+        setInterval(updateClock, 1000);
+        updateClock();
+        restoreState(); 
+
+    </script>
+</body>
+</html>

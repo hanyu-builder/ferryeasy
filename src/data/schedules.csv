@@ -1,0 +1,2201 @@
+route_id,direction,day_type,time,type,remark_zh,remark_en
+north-point-hung-hom,outbound,mon_fri,07:23,slow,,
+north-point-hung-hom,outbound,mon_fri,07:53,slow,,
+north-point-hung-hom,outbound,mon_fri,08:23,slow,,
+north-point-hung-hom,outbound,mon_fri,08:53,slow,,
+north-point-hung-hom,outbound,mon_fri,09:23,slow,,
+north-point-hung-hom,outbound,mon_fri,09:53,slow,,
+north-point-hung-hom,outbound,mon_fri,10:23,slow,,
+north-point-hung-hom,outbound,mon_fri,10:53,slow,,
+north-point-hung-hom,outbound,mon_fri,11:23,slow,,
+north-point-hung-hom,outbound,mon_fri,11:53,slow,,
+north-point-hung-hom,outbound,mon_fri,12:23,slow,,
+north-point-hung-hom,outbound,mon_fri,12:53,slow,,
+north-point-hung-hom,outbound,mon_fri,13:23,slow,,
+north-point-hung-hom,outbound,mon_fri,13:53,slow,,
+north-point-hung-hom,outbound,mon_fri,14:23,slow,,
+north-point-hung-hom,outbound,mon_fri,14:53,slow,,
+north-point-hung-hom,outbound,mon_fri,15:23,slow,,
+north-point-hung-hom,outbound,mon_fri,15:53,slow,,
+north-point-hung-hom,outbound,mon_fri,16:23,slow,,
+north-point-hung-hom,outbound,mon_fri,16:53,slow,,
+north-point-hung-hom,outbound,mon_fri,17:23,slow,,
+north-point-hung-hom,outbound,mon_fri,17:53,slow,,
+north-point-hung-hom,outbound,mon_fri,18:23,slow,,
+north-point-hung-hom,outbound,mon_fri,18:53,slow,,
+north-point-hung-hom,outbound,mon_fri,19:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,08:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,08:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,09:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,09:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,10:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,10:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,11:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,11:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,12:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,12:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,13:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,13:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,14:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,14:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,15:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,15:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,16:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,16:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,17:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,17:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,18:23,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,18:53,slow,,
+north-point-hung-hom,outbound,sat_sun_ph,19:23,slow,,
+north-point-hung-hom,inbound,mon_fri,07:05,slow,,
+north-point-hung-hom,inbound,mon_fri,07:35,slow,,
+north-point-hung-hom,inbound,mon_fri,08:05,slow,,
+north-point-hung-hom,inbound,mon_fri,08:35,slow,,
+north-point-hung-hom,inbound,mon_fri,09:05,slow,,
+north-point-hung-hom,inbound,mon_fri,09:35,slow,,
+north-point-hung-hom,inbound,mon_fri,10:05,slow,,
+north-point-hung-hom,inbound,mon_fri,10:35,slow,,
+north-point-hung-hom,inbound,mon_fri,11:05,slow,,
+north-point-hung-hom,inbound,mon_fri,11:35,slow,,
+north-point-hung-hom,inbound,mon_fri,12:05,slow,,
+north-point-hung-hom,inbound,mon_fri,12:35,slow,,
+north-point-hung-hom,inbound,mon_fri,13:05,slow,,
+north-point-hung-hom,inbound,mon_fri,13:35,slow,,
+north-point-hung-hom,inbound,mon_fri,14:05,slow,,
+north-point-hung-hom,inbound,mon_fri,14:35,slow,,
+north-point-hung-hom,inbound,mon_fri,15:05,slow,,
+north-point-hung-hom,inbound,mon_fri,15:35,slow,,
+north-point-hung-hom,inbound,mon_fri,16:05,slow,,
+north-point-hung-hom,inbound,mon_fri,16:35,slow,,
+north-point-hung-hom,inbound,mon_fri,17:05,slow,,
+north-point-hung-hom,inbound,mon_fri,17:35,slow,,
+north-point-hung-hom,inbound,mon_fri,18:05,slow,,
+north-point-hung-hom,inbound,mon_fri,18:35,slow,,
+north-point-hung-hom,inbound,mon_fri,19:05,slow,,
+north-point-hung-hom,inbound,mon_fri,19:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,08:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,08:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,09:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,09:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,10:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,10:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,11:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,11:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,12:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,12:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,13:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,13:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,14:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,14:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,15:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,15:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,16:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,16:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,17:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,17:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,18:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,18:35,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,19:05,slow,,
+north-point-hung-hom,inbound,sat_sun_ph,19:35,slow,,
+north-point-kowloon-city,outbound,mon_fri,07:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,07:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,08:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,08:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,09:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,09:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,10:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,10:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,11:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,11:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,12:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,12:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,13:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,13:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,14:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,14:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,15:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,15:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,16:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,16:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,17:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,17:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,18:17,slow,,
+north-point-kowloon-city,outbound,mon_fri,18:47,slow,,
+north-point-kowloon-city,outbound,mon_fri,19:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,08:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,08:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,09:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,09:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,10:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,10:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,11:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,11:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,12:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,12:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,13:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,13:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,14:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,14:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,15:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,15:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,16:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,16:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,17:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,17:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,18:17,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,18:47,slow,,
+north-point-kowloon-city,outbound,sat_sun_ph,19:17,slow,,
+north-point-kowloon-city,inbound,mon_fri,07:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,07:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,08:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,08:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,09:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,09:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,10:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,10:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,11:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,11:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,12:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,12:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,13:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,13:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,14:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,14:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,15:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,15:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,16:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,16:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,17:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,17:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,18:05,slow,,
+north-point-kowloon-city,inbound,mon_fri,18:35,slow,,
+north-point-kowloon-city,inbound,mon_fri,19:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,08:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,08:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,09:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,09:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,10:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,10:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,11:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,11:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,12:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,12:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,13:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,13:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,14:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,14:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,15:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,15:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,16:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,16:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,17:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,17:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,18:05,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,18:35,slow,,
+north-point-kowloon-city,inbound,sat_sun_ph,19:05,slow,,
+north-point-kwun-tong,outbound,mon_fri,07:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,07:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,08:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,08:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,09:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,09:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,10:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,10:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,12:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,12:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,13:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,13:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,14:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,14:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,15:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,16:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,17:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,17:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,18:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,18:30,slow,,
+north-point-kwun-tong,outbound,mon_fri,19:00,slow,,
+north-point-kwun-tong,outbound,mon_fri,19:30,slow,,
+north-point-kwun-tong,inbound,mon_fri,07:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,07:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,08:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,08:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,09:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,09:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,10:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,10:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,12:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,12:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,13:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,13:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,14:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,14:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,16:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,16:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,17:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,17:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,18:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,18:45,slow,,
+north-point-kwun-tong,inbound,mon_fri,19:15,slow,,
+north-point-kwun-tong,inbound,mon_fri,19:45,slow,,
+north-point-kwun-tong,outbound,sat,08:00,slow,,
+north-point-kwun-tong,outbound,sat,08:30,slow,,
+north-point-kwun-tong,outbound,sat,09:00,slow,,
+north-point-kwun-tong,outbound,sat,10:00,slow,,
+north-point-kwun-tong,outbound,sat,12:00,slow,,
+north-point-kwun-tong,outbound,sat,13:00,slow,,
+north-point-kwun-tong,outbound,sat,14:00,slow,,
+north-point-kwun-tong,outbound,sat,15:00,slow,,
+north-point-kwun-tong,outbound,sat,16:00,slow,,
+north-point-kwun-tong,outbound,sat,17:00,slow,,
+north-point-kwun-tong,outbound,sat,18:00,slow,,
+north-point-kwun-tong,outbound,sat,19:00,slow,,
+north-point-kwun-tong,inbound,sat,08:15,slow,,
+north-point-kwun-tong,inbound,sat,08:45,slow,,
+north-point-kwun-tong,inbound,sat,09:35,slow,,
+north-point-kwun-tong,inbound,sat,10:35,slow,,
+north-point-kwun-tong,inbound,sat,12:35,slow,,
+north-point-kwun-tong,inbound,sat,13:35,slow,,
+north-point-kwun-tong,inbound,sat,14:35,slow,,
+north-point-kwun-tong,inbound,sat,15:35,slow,,
+north-point-kwun-tong,inbound,sat,16:35,slow,,
+north-point-kwun-tong,inbound,sat,17:35,slow,,
+north-point-kwun-tong,inbound,sat,18:35,slow,,
+north-point-kwun-tong,inbound,sat,19:35,slow,,
+north-point-kwun-tong,outbound,sun,09:00,slow,,
+north-point-kwun-tong,outbound,sun,10:00,slow,,
+north-point-kwun-tong,outbound,sun,11:00,slow,,
+north-point-kwun-tong,outbound,sun,12:00,slow,,
+north-point-kwun-tong,outbound,sun,13:00,slow,,
+north-point-kwun-tong,outbound,sun_ph,14:00,slow,,
+north-point-kwun-tong,outbound,sun_ph,15:00,slow,,
+north-point-kwun-tong,outbound,sun_ph,16:00,slow,,
+north-point-kwun-tong,outbound,sun_ph,17:00,slow,,
+north-point-kwun-tong,outbound,sun_ph,18:00,slow,,
+north-point-kwun-tong,outbound,sun_ph,19:00,slow,,
+north-point-kwun-tong,inbound,sun_ph,09:35,slow,,
+north-point-kwun-tong,inbound,sun_ph,10:35,slow,,
+north-point-kwun-tong,inbound,sun_ph,11:35,slow,,
+north-point-kwun-tong,inbound,sun_ph,12:35,slow,,
+north-point-kwun-tong,inbound,sun_ph,13:35,slow,,
+north-point-kwun-tong,inbound,sun_ph,14:35,slow,,
+north-point-kwun-tong,inbound,sun,15:35,slow,,
+north-point-kwun-tong,inbound,sun,16:35,slow,,
+north-point-kwun-tong,inbound,sun,17:35,slow,,
+north-point-kwun-tong,inbound,sun,18:35,slow,,
+north-point-kwun-tong,inbound,sun,19:35,slow,,
+kwun-tong-kai-tak,outbound,sat,09:15,slow,,
+kwun-tong-kai-tak,outbound,sat,10:15,slow,,
+kwun-tong-kai-tak,outbound,sat,12:15,slow,,
+kwun-tong-kai-tak,outbound,sat,13:15,slow,,
+kwun-tong-kai-tak,outbound,sat,14:15,slow,,
+kwun-tong-kai-tak,outbound,sat,15:15,slow,,
+kwun-tong-kai-tak,outbound,sat,16:15,slow,,
+kwun-tong-kai-tak,outbound,sat,17:15,slow,,
+kwun-tong-kai-tak,outbound,sat,18:15,slow,,
+kwun-tong-kai-tak,outbound,sat,19:15,slow,,
+kwun-tong-kai-tak,inbound,sat,09:25,slow,,
+kwun-tong-kai-tak,inbound,sat,10:25,slow,,
+kwun-tong-kai-tak,inbound,sat,12:25,slow,,
+kwun-tong-kai-tak,inbound,sat,13:25,slow,,
+kwun-tong-kai-tak,inbound,sat,14:25,slow,,
+kwun-tong-kai-tak,inbound,sat,15:25,slow,,
+kwun-tong-kai-tak,inbound,sat,16:25,slow,,
+kwun-tong-kai-tak,inbound,sat,17:25,slow,,
+kwun-tong-kai-tak,inbound,sat,18:25,slow,,
+kwun-tong-kai-tak,inbound,sat,19:25,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,09:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,10:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,11:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,12:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,13:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,14:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,15:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,16:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,17:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,18:15,slow,,
+kwun-tong-kai-tak,outbound,sun_ph,19:15,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,09:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,10:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,11:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,12:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,13:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,14:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,15:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,16:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,17:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,18:25,slow,,
+kwun-tong-kai-tak,inbound,sun_ph,19:25,slow,,
+central-hung-hom,outbound,mon_sat,07:30,slow,,
+central-hung-hom,outbound,mon_sat,08:10,slow,,
+central-hung-hom,outbound,mon_sat,08:50,slow,,
+central-hung-hom,outbound,mon_sat,09:30,slow,,
+central-hung-hom,outbound,mon_sat,10:10,slow,,
+central-hung-hom,outbound,mon_sat,10:50,slow,,
+central-hung-hom,outbound,mon_sat,11:30,slow,,
+central-hung-hom,outbound,mon_sat,12:50,slow,,
+central-hung-hom,outbound,mon_sat,13:30,slow,,
+central-hung-hom,outbound,mon_sat,14:20,slow,,
+central-hung-hom,outbound,mon_sat,15:00,slow,,
+central-hung-hom,outbound,mon_sat,16:20,slow,,
+central-hung-hom,outbound,mon_sat,17:00,slow,,
+central-hung-hom,outbound,mon_sat,17:40,slow,,
+central-hung-hom,outbound,mon_sat,18:20,slow,,
+central-hung-hom,outbound,mon_sat,19:00,slow,,
+central-hung-hom,inbound,mon_sat,07:50,slow,,
+central-hung-hom,inbound,mon_sat,08:30,slow,,
+central-hung-hom,inbound,mon_sat,09:10,slow,,
+central-hung-hom,inbound,mon_sat,09:50,slow,,
+central-hung-hom,inbound,mon_sat,10:30,slow,,
+central-hung-hom,inbound,mon_sat,11:10,slow,,
+central-hung-hom,inbound,mon_sat,11:50,slow,,
+central-hung-hom,inbound,mon_sat,13:10,slow,,
+central-hung-hom,inbound,mon_sat,14:00,slow,,
+central-hung-hom,inbound,mon_sat,14:40,slow,,
+central-hung-hom,inbound,mon_sat,16:00,slow,,
+central-hung-hom,inbound,mon_sat,16:40,slow,,
+central-hung-hom,inbound,mon_sat,17:20,slow,,
+central-hung-hom,inbound,mon_sat,18:00,slow,,
+central-hung-hom,inbound,mon_sat,18:40,slow,,
+central-hung-hom,inbound,mon_sat,19:20,slow,,
+central-hung-hom,outbound,sun_ph,08:10,slow,,
+central-hung-hom,outbound,sun_ph,08:50,slow,,
+central-hung-hom,outbound,sun_ph,09:30,slow,,
+central-hung-hom,outbound,sun_ph,10:10,slow,,
+central-hung-hom,outbound,sun_ph,10:50,slow,,
+central-hung-hom,outbound,sun_ph,11:30,slow,,
+central-hung-hom,outbound,sun_ph,12:50,slow,,
+central-hung-hom,outbound,sun_ph,13:30,slow,,
+central-hung-hom,outbound,sun_ph,14:20,slow,,
+central-hung-hom,outbound,sun_ph,15:00,slow,,
+central-hung-hom,outbound,sun_ph,15:40,slow,,
+central-hung-hom,outbound,sun_ph,16:20,slow,,
+central-hung-hom,outbound,sun_ph,17:00,slow,,
+central-hung-hom,outbound,sun_ph,17:40,slow,,
+central-hung-hom,outbound,sun_ph,18:20,slow,,
+central-hung-hom,inbound,sun_ph,08:30,slow,,
+central-hung-hom,inbound,sun_ph,09:10,slow,,
+central-hung-hom,inbound,sun_ph,09:50,slow,,
+central-hung-hom,inbound,sun_ph,10:30,slow,,
+central-hung-hom,inbound,sun_ph,11:10,slow,,
+central-hung-hom,inbound,sun_ph,11:50,slow,,
+central-hung-hom,inbound,sun_ph,13:10,slow,,
+central-hung-hom,inbound,sun_ph,14:00,slow,,
+central-hung-hom,inbound,sun_ph,14:40,slow,,
+central-hung-hom,inbound,sun_ph,15:20,slow,,
+central-hung-hom,inbound,sun_ph,16:00,slow,,
+central-hung-hom,inbound,sun_ph,16:40,slow,,
+central-hung-hom,inbound,sun_ph,17:20,slow,,
+central-hung-hom,inbound,sun_ph,18:00,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,06:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,06:42,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,06:54,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,07:06,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,07:18,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,07:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,07:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,07:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,07:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,07:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,08:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,08:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,08:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,08:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,08:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,08:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,08:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,09:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,10:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,10:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,10:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,10:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,10:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,10:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,10:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,11:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,12:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,12:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,12:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,12:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,12:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,12:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,12:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,13:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,14:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,14:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,14:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,14:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,14:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,14:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,14:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,15:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,16:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,16:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,16:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,16:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,16:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,16:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,16:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,17:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,18:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,18:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,18:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,18:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,18:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,18:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,18:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,19:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,20:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,20:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,20:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,20:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,20:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,20:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,20:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,21:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,21:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,21:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,21:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,21:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,21:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,21:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,22:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,23:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,23:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,23:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,mon_fri,23:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,06:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,06:40,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,06:50,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:00,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:15,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:27,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:39,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:51,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,07:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:03,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:15,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:27,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:39,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:51,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,08:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:03,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:15,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:27,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:39,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,09:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,10:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,11:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,11:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,11:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,11:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,11:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,11:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,11:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,12:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,13:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,13:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,13:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,13:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,13:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,13:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,13:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,14:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,15:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,15:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,15:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,15:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,15:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,15:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,15:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,16:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,17:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,17:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,17:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,17:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,17:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,17:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,17:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,18:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,19:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,19:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,19:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,19:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,19:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,19:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,19:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,20:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,20:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,20:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,20:23,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,20:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,20:40,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,20:50,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,21:00,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,21:10,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,21:20,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,21:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,21:40,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,21:50,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,22:00,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,22:10,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,22:20,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,22:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,22:40,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,22:50,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,23:00,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,23:10,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,23:20,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,mon_fri,23:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,06:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,06:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,06:52,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,07:03,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,07:14,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,07:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,07:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,07:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,07:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,07:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,08:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,08:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,08:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,08:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,08:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,08:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,08:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,09:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,10:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,10:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,10:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,10:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,10:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,10:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,10:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,11:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,12:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,12:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,12:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,12:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,12:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,12:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,12:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,13:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,14:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,14:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,14:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,14:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,14:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,14:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,14:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,15:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,16:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,16:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,16:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,16:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,16:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,16:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,16:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,17:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,18:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,18:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,18:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,18:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,18:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,18:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,18:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,19:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,20:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,20:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,20:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,20:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,20:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,20:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,20:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,21:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,22:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,22:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,22:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,22:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,22:39,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,22:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,22:59,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,23:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,23:19,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,outbound,sat_sun_ph,23:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,06:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,06:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,06:52,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,07:03,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,07:14,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,07:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,07:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,07:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,07:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,07:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,08:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,08:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,08:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,08:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,08:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,08:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,08:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,09:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,10:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,10:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,10:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,10:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,10:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,10:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,10:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,11:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,12:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,12:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,12:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,12:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,12:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,12:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,12:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,13:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,14:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,14:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,14:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,14:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,14:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,14:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,14:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,15:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,16:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,16:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,16:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,16:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,16:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,16:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,16:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,17:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,18:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,18:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,18:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,18:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,18:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,18:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,18:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,19:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,20:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,20:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,20:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,20:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,20:37,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,20:45,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,20:53,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:01,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:17,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:25,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:33,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:41,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,21:57,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,22:05,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,22:13,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,22:21,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,22:29,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,22:39,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,22:49,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,22:59,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,23:09,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,23:19,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+central-tsim-sha-tsui,inbound,sat_sun_ph,23:30,slow,班次約 6-8 分鐘,Freq: every 6-8 mins
+wan-chai-tsim-sha-tsui,outbound,mon_sat,07:30,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,07:41,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,07:52,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:08,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:16,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:32,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,08:56,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,09:04,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,09:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,09:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,09:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,09:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,10:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,10:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,10:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,10:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,10:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,11:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,11:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,11:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,11:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,11:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,12:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,12:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,12:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,12:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,12:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,13:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,13:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,13:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,13:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,13:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,14:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,14:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,14:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,14:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,14:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,15:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,15:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,15:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,15:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,15:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,16:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,16:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,16:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,16:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,16:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,16:56,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,17:04,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,17:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,17:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,17:28,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,17:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,17:44,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,17:52,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,18:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,18:08,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,18:16,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,18:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,18:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,18:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,19:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,19:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,19:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,19:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,19:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,20:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,20:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,20:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,20:28,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,20:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,20:44,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,20:52,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:08,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:16,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:32,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,21:56,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,22:04,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,22:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,22:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,22:28,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,22:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,22:44,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,22:52,slow,,
+wan-chai-tsim-sha-tsui,outbound,mon_sat,23:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,07:20,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,07:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,07:41,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,07:49,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,07:57,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,08:05,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,08:13,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,08:21,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,08:29,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,08:37,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,08:45,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,08:53,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,09:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,09:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,09:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,09:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,09:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,10:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,10:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,10:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,10:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,10:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,11:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,11:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,11:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,11:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,11:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,12:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,12:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,12:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,12:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,12:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,13:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,13:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,13:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,13:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,13:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,14:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,14:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,14:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,14:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,14:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,15:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,15:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,15:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,15:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,15:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,16:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,16:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,16:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,16:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,16:44,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,16:52,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:08,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:16,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:32,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:40,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,17:56,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,18:04,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,18:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,18:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,18:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,18:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,19:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,19:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,19:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,19:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,19:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,20:04,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,20:18,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,20:32,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,20:46,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,21:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,21:14,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,21:28,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,21:42,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,21:54,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,22:06,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,22:18,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,22:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,mon_sat,22:50,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,07:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,08:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,08:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,08:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,09:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,09:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,09:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,10:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,10:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,10:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,11:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,11:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,11:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,12:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,12:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,12:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,13:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,13:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,13:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,13:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,13:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,14:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,14:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,14:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,14:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,14:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,15:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,15:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,15:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,15:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,15:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,16:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,16:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,16:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,16:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,16:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,17:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,17:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,17:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,17:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,17:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,18:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,18:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,18:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,18:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,18:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,19:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,19:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,19:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,19:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,19:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,20:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,20:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,20:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,20:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,20:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,21:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,21:12,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,21:24,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,21:36,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,21:48,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,22:00,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,22:20,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,22:40,slow,,
+wan-chai-tsim-sha-tsui,outbound,sun_ph,23:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,07:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,07:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,08:10,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,08:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,08:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,09:10,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,09:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,09:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,10:10,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,10:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,10:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,11:10,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,11:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,11:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,12:10,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,12:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,12:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,13:02,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,13:14,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,13:26,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,13:38,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,13:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,14:02,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,14:14,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,14:26,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,14:38,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,14:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,15:02,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,15:14,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,15:26,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,15:38,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,15:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,16:02,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,16:14,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,16:26,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,16:38,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,16:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,17:02,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,17:14,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,17:26,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,17:38,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,17:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,18:02,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,18:14,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,18:26,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,18:38,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,18:50,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,19:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,19:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,19:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,19:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,19:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,20:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,20:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,20:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,20:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,20:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,21:00,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,21:12,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,21:24,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,21:36,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,21:48,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,22:08,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,22:30,slow,,
+wan-chai-tsim-sha-tsui,inbound,sun_ph,22:50,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,07:12,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,07:36,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,08:00,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,08:24,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,08:48,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,09:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,09:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,10:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,10:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,11:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,11:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,12:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,12:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,13:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,13:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,14:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,14:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,15:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,15:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,16:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,16:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,17:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,17:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,18:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,18:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,19:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,19:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,20:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,20:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,21:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,21:45,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,22:15,slow,,
+sai-wan-ho-sam-ka-tsuen,outbound,mon_sun,22:45,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,07:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,07:24,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,07:48,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,08:12,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,08:36,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,09:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,09:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,10:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,10:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,11:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,11:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,12:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,12:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,13:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,13:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,14:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,14:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,15:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,15:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,16:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,16:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,17:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,17:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,18:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,18:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,19:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,19:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,20:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,20:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,21:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,21:30,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,22:00,slow,,
+sai-wan-ho-sam-ka-tsuen,inbound,mon_sun,22:30,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,07:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,07:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,08:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,08:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,09:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,09:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,10:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,10:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,11:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,11:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,12:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,12:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,13:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,13:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,14:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,14:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,15:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,15:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,16:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,16:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,17:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,17:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,18:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,18:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,19:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,19:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,20:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,20:33,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,21:03,slow,,
+sai-wan-ho-kwun-tong,outbound,mon_sun,21:40,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,06:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,07:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,07:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,08:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,08:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,09:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,09:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,10:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,10:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,11:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,11:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,12:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,12:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,13:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,13:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,14:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,14:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,15:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,15:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,16:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,16:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,17:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,17:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,18:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,18:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,19:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,19:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,20:18,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,20:48,slow,,
+sai-wan-ho-kwun-tong,inbound,mon_sun,21:18,slow,,
+central-cheung-chau,outbound,mon_sat,04:15,fast,,
+central-cheung-chau,outbound,mon_sat,06:10,slow,,
+central-cheung-chau,outbound,mon_sat,07:00,fast,,
+central-cheung-chau,outbound,mon_sat,07:40,slow,,
+central-cheung-chau,outbound,mon_sat,08:00,fast,,
+central-cheung-chau,outbound,mon_sat,08:40,fast,,
+central-cheung-chau,outbound,mon_sat,09:00,slow,,
+central-cheung-chau,outbound,mon_sat,09:45,fast,,
+central-cheung-chau,outbound,mon_sat,10:15,slow,,
+central-cheung-chau,outbound,mon_sat,10:45,fast,,
+central-cheung-chau,outbound,mon_sat,11:15,slow,,
+central-cheung-chau,outbound,mon_sat,11:45,fast,,
+central-cheung-chau,outbound,mon_sat,12:15,slow,,
+central-cheung-chau,outbound,mon_sat,12:45,fast,,
+central-cheung-chau,outbound,mon_sat,13:15,slow,,
+central-cheung-chau,outbound,mon_sat,13:45,fast,,
+central-cheung-chau,outbound,mon_sat,14:15,slow,,
+central-cheung-chau,outbound,mon_sat,14:45,fast,,
+central-cheung-chau,outbound,mon_sat,15:15,slow,,
+central-cheung-chau,outbound,mon_sat,15:45,fast,,
+central-cheung-chau,outbound,mon_sat,16:15,slow,,
+central-cheung-chau,outbound,mon_sat,16:45,fast,,
+central-cheung-chau,outbound,mon_sat,17:20,slow,,
+central-cheung-chau,outbound,mon_sat,17:40,fast,,
+central-cheung-chau,outbound,mon_sat,18:00,slow,,
+central-cheung-chau,outbound,mon_sat,18:20,fast,,
+central-cheung-chau,outbound,mon_fri,18:30,fast,,
+central-cheung-chau,outbound,mon_sat,18:45,slow,,
+central-cheung-chau,outbound,mon_sat,19:00,fast,,
+central-cheung-chau,outbound,mon_fri,19:15,fast,,
+central-cheung-chau,outbound,sat,19:30,slow,,
+central-cheung-chau,outbound,mon_fri,19:40,slow,,
+central-cheung-chau,outbound,mon_sat,20:00,fast,,
+central-cheung-chau,outbound,mon_sat,20:30,slow,,
+central-cheung-chau,outbound,mon_sat,21:00,fast,,
+central-cheung-chau,outbound,mon_sat,21:30,slow,,
+central-cheung-chau,outbound,mon_sat,22:00,fast,,
+central-cheung-chau,outbound,mon_sat,22:30,slow,,
+central-cheung-chau,outbound,mon_sat,23:00,fast,,
+central-cheung-chau,outbound,mon_sat,23:30,slow,,
+central-cheung-chau,outbound,mon_sat,23:45,fast,,
+central-cheung-chau,outbound,mon_sat,01:30,fast,,
+central-cheung-chau,inbound,mon_sat,05:10,fast,,
+central-cheung-chau,inbound,mon_sat,05:50,slow,,
+central-cheung-chau,inbound,mon_sat,06:20,fast,,
+central-cheung-chau,inbound,mon_sat,06:40,slow,,
+central-cheung-chau,inbound,mon_sat,07:00,fast,,
+central-cheung-chau,inbound,mon_sat,07:15,slow,,
+central-cheung-chau,inbound,mon_sat,07:45,fast,,
+central-cheung-chau,inbound,mon_sat,07:50,slow,,
+central-cheung-chau,inbound,mon_sat,07:55,fast,,
+central-cheung-chau,inbound,mon_sat,08:10,fast,,
+central-cheung-chau,inbound,mon_sat,08:20,fast,,
+central-cheung-chau,inbound,mon_sat,08:40,slow,,
+central-cheung-chau,inbound,mon_sat,09:00,fast,,
+central-cheung-chau,inbound,mon_sat,09:30,fast,,
+central-cheung-chau,inbound,mon_sat,10:00,slow,,
+central-cheung-chau,inbound,mon_sat,10:45,fast,,
+central-cheung-chau,inbound,mon_sat,11:15,slow,,
+central-cheung-chau,inbound,mon_sat,11:45,fast,,
+central-cheung-chau,inbound,mon_sat,12:15,slow,,
+central-cheung-chau,inbound,mon_sat,12:45,fast,,
+central-cheung-chau,inbound,mon_sat,13:15,slow,,
+central-cheung-chau,inbound,mon_sat,13:45,fast,,
+central-cheung-chau,inbound,mon_sat,14:15,slow,,
+central-cheung-chau,inbound,mon_sat,14:45,fast,,
+central-cheung-chau,inbound,mon_sat,15:15,slow,,
+central-cheung-chau,inbound,mon_sat,15:45,fast,,
+central-cheung-chau,inbound,mon_sat,16:15,slow,,
+central-cheung-chau,inbound,mon_fri,16:30,fast,,
+central-cheung-chau,inbound,mon_sat,16:45,fast,,
+central-cheung-chau,inbound,mon_sat,17:15,slow,,
+central-cheung-chau,inbound,mon_sat,17:40,fast,,
+central-cheung-chau,inbound,mon_sat,18:20,slow,,
+central-cheung-chau,inbound,mon_sat,19:00,fast,,
+central-cheung-chau,inbound,mon_sat,19:30,slow,,
+central-cheung-chau,inbound,mon_sat,20:00,fast,,
+central-cheung-chau,inbound,mon_sat,20:30,slow,,
+central-cheung-chau,inbound,mon_sat,21:00,fast,,
+central-cheung-chau,inbound,mon_sat,21:30,slow,,
+central-cheung-chau,inbound,mon_sat,22:00,fast,,
+central-cheung-chau,inbound,mon_sat,22:30,slow,,
+central-cheung-chau,inbound,mon_sat,23:00,fast,,
+central-cheung-chau,inbound,mon_sat,23:30,slow,,
+central-cheung-chau,inbound,mon_sat,02:20,fast,,
+central-cheung-chau,outbound,sun_ph,04:15,fast,,
+central-cheung-chau,outbound,sun_ph,06:30,slow,,
+central-cheung-chau,outbound,sun_ph,07:00,fast,,
+central-cheung-chau,outbound,sun_ph,07:30,slow,,
+central-cheung-chau,outbound,sun_ph,08:00,fast,,
+central-cheung-chau,outbound,sun_ph,08:30,slow,,
+central-cheung-chau,outbound,sun_ph,09:00,fast,,
+central-cheung-chau,outbound,sun_ph,09:30,slow,,
+central-cheung-chau,outbound,sun_ph,10:00,fast,,
+central-cheung-chau,outbound,sun_ph,10:30,slow,,
+central-cheung-chau,outbound,sun_ph,11:00,fast,,
+central-cheung-chau,outbound,sun_ph,11:30,slow,,
+central-cheung-chau,outbound,sun_ph,12:00,fast,,
+central-cheung-chau,outbound,sun_ph,12:30,slow,,
+central-cheung-chau,outbound,sun_ph,13:00,fast,,
+central-cheung-chau,outbound,sun_ph,13:30,slow,,
+central-cheung-chau,outbound,sun_ph,14:00,fast,,
+central-cheung-chau,outbound,sun_ph,14:30,slow,,
+central-cheung-chau,outbound,sun_ph,15:00,fast,,
+central-cheung-chau,outbound,sun_ph,15:30,slow,,
+central-cheung-chau,outbound,sun_ph,16:00,fast,,
+central-cheung-chau,outbound,sun_ph,16:30,slow,,
+central-cheung-chau,outbound,sun_ph,17:00,fast,,
+central-cheung-chau,outbound,sun_ph,17:30,slow,,
+central-cheung-chau,outbound,sun_ph,18:00,fast,,
+central-cheung-chau,outbound,sun_ph,18:30,slow,,
+central-cheung-chau,outbound,sun_ph,19:00,fast,,
+central-cheung-chau,outbound,sun_ph,19:30,slow,,
+central-cheung-chau,outbound,sun_ph,20:00,fast,,
+central-cheung-chau,outbound,sun_ph,20:30,slow,,
+central-cheung-chau,outbound,sun_ph,21:00,fast,,
+central-cheung-chau,outbound,sun_ph,21:30,slow,,
+central-cheung-chau,outbound,sun_ph,22:00,fast,,
+central-cheung-chau,outbound,sun_ph,22:30,slow,,
+central-cheung-chau,outbound,sun_ph,23:00,fast,,
+central-cheung-chau,outbound,sun_ph,23:30,slow,,
+central-cheung-chau,outbound,sun_ph,23:55,fast,,
+central-cheung-chau,outbound,sun_ph,01:30,fast,,
+central-cheung-chau,inbound,sun_ph,05:10,fast,,
+central-cheung-chau,inbound,sun_ph,06:00,fast,,
+central-cheung-chau,inbound,sun_ph,06:30,slow,,
+central-cheung-chau,inbound,sun_ph,07:00,fast,,
+central-cheung-chau,inbound,sun_ph,07:30,slow,,
+central-cheung-chau,inbound,sun_ph,08:00,fast,,
+central-cheung-chau,inbound,sun_ph,08:30,slow,,
+central-cheung-chau,inbound,sun_ph,09:00,fast,,
+central-cheung-chau,inbound,sun_ph,09:30,slow,,
+central-cheung-chau,inbound,sun_ph,10:00,fast,,
+central-cheung-chau,inbound,sun_ph,10:30,slow,,
+central-cheung-chau,inbound,sun_ph,11:00,fast,,
+central-cheung-chau,inbound,sun_ph,11:30,slow,,
+central-cheung-chau,inbound,sun_ph,12:00,fast,,
+central-cheung-chau,inbound,sun_ph,12:30,slow,,
+central-cheung-chau,inbound,sun_ph,13:00,fast,,
+central-cheung-chau,inbound,sun_ph,13:30,slow,,
+central-cheung-chau,inbound,sun_ph,14:00,fast,,
+central-cheung-chau,inbound,sun_ph,14:30,slow,,
+central-cheung-chau,inbound,sun_ph,15:00,fast,,
+central-cheung-chau,inbound,sun_ph,15:30,slow,,
+central-cheung-chau,inbound,sun_ph,16:00,fast,,
+central-cheung-chau,inbound,sun_ph,16:30,slow,,
+central-cheung-chau,inbound,sun_ph,17:00,fast,,
+central-cheung-chau,inbound,sun_ph,17:30,slow,,
+central-cheung-chau,inbound,sun_ph,18:00,fast,,
+central-cheung-chau,inbound,sun_ph,18:30,slow,,
+central-cheung-chau,inbound,sun_ph,19:00,fast,,
+central-cheung-chau,inbound,sun_ph,19:30,slow,,
+central-cheung-chau,inbound,sun_ph,20:00,fast,,
+central-cheung-chau,inbound,sun_ph,20:30,slow,,
+central-cheung-chau,inbound,sun_ph,21:00,fast,,
+central-cheung-chau,inbound,sun_ph,21:30,slow,,
+central-cheung-chau,inbound,sun_ph,22:00,fast,,
+central-cheung-chau,inbound,sun_ph,22:30,slow,,
+central-cheung-chau,inbound,sun_ph,23:00,fast,,
+central-cheung-chau,inbound,sun_ph,02:20,fast,,
+central-mui-wo,outbound,mon_sat,03:00,fast,,
+central-mui-wo,outbound,mon_sat,06:10,slow,,
+central-mui-wo,outbound,mon_sat,06:50,slow,,
+central-mui-wo,outbound,mon_sat,07:10,fast,,
+central-mui-wo,outbound,mon_sat,07:40,fast,,
+central-mui-wo,outbound,mon_sat,08:30,slow,,
+central-mui-wo,outbound,mon_sat,09:00,fast,,
+central-mui-wo,outbound,mon_sat,09:50,fast,,
+central-mui-wo,outbound,mon_sat,10:30,slow,,
+central-mui-wo,outbound,mon_sat,11:10,fast,,
+central-mui-wo,outbound,mon_sat,11:50,fast,,
+central-mui-wo,outbound,mon_sat,12:30,slow,,
+central-mui-wo,outbound,mon_sat,13:10,fast,,
+central-mui-wo,outbound,mon_sat,13:50,fast,,
+central-mui-wo,outbound,mon_sat,14:30,slow,,
+central-mui-wo,outbound,sat,15:00,slow,,
+central-mui-wo,outbound,mon_sat,15:10,fast,,
+central-mui-wo,outbound,mon_sat,15:50,fast,,
+central-mui-wo,outbound,mon_sat,16:30,slow,,
+central-mui-wo,outbound,mon_sat,17:20,fast,,
+central-mui-wo,outbound,mon_sat,17:40,slow,,
+central-mui-wo,outbound,mon_sat,18:00,fast,,
+central-mui-wo,outbound,mon_sat,18:30,slow,,
+central-mui-wo,outbound,mon_sat,19:00,fast,,
+central-mui-wo,outbound,mon_sat,19:30,fast,,
+central-mui-wo,outbound,mon_sat,20:00,slow,,
+central-mui-wo,outbound,mon_sat,20:35,fast,收取普通渡輪票價,Fast ferry vessel at ordinary ferry fare level
+central-mui-wo,outbound,mon_sat,21:20,fast,,
+central-mui-wo,outbound,mon_sat,22:00,fast,,
+central-mui-wo,outbound,mon_sat,22:45,fast,,
+central-mui-wo,outbound,mon_sat,23:30,fast,,
+central-mui-wo,outbound,mon_sat,00:30,fast,,
+central-mui-wo,inbound,mon_sat,03:40,fast,,
+central-mui-wo,inbound,mon_sat,05:55,slow,,
+central-mui-wo,inbound,mon_sat,06:20,fast,,
+central-mui-wo,inbound,mon_sat,06:30,slow,途經坪洲,Via Peng Chau
+central-mui-wo,inbound,mon_sat,07:00,fast,,
+central-mui-wo,inbound,mon_sat,07:10,slow,,
+central-mui-wo,inbound,mon_sat,07:20,fast,,
+central-mui-wo,inbound,mon_sat,07:50,slow,,
+central-mui-wo,inbound,mon_sat,08:05,fast,,
+central-mui-wo,inbound,mon_sat,08:30,fast,,
+central-mui-wo,inbound,mon_sat,08:45,slow,,
+central-mui-wo,inbound,mon_sat,09:40,fast,收取普通渡輪票價,Fast ferry vessel at ordinary ferry fare level
+central-mui-wo,inbound,mon_sat,10:00,fast,,
+central-mui-wo,inbound,mon_sat,10:40,fast,,
+central-mui-wo,inbound,mon_sat,11:30,slow,,
+central-mui-wo,inbound,mon_sat,12:10,fast,,
+central-mui-wo,inbound,mon_sat,12:50,fast,,
+central-mui-wo,inbound,mon_sat,13:30,slow,,
+central-mui-wo,inbound,mon_sat,14:10,fast,,
+central-mui-wo,inbound,mon_sat,14:50,fast,,
+central-mui-wo,inbound,mon_sat,15:30,slow,,
+central-mui-wo,inbound,mon_sat,16:10,fast,,
+central-mui-wo,inbound,mon_sat,16:50,fast,,
+central-mui-wo,inbound,mon_sat,17:30,slow,,
+central-mui-wo,inbound,mon_sat,18:10,fast,,
+central-mui-wo,inbound,mon_sat,18:40,fast,,
+central-mui-wo,inbound,mon_sat,19:30,slow,,
+central-mui-wo,inbound,mon_sat,20:30,fast,,
+central-mui-wo,inbound,mon_sat,21:30,slow,,
+central-mui-wo,inbound,mon_sat,22:40,fast,,
+central-mui-wo,inbound,mon_sat,23:30,fast,,
+central-mui-wo,outbound,sun_ph,07:00,slow,,
+central-mui-wo,outbound,sun_ph,08:00,fast,,
+central-mui-wo,outbound,sun_ph,08:30,fast,,
+central-mui-wo,outbound,sun_ph,09:00,slow,,
+central-mui-wo,outbound,sun_ph,09:40,fast,,
+central-mui-wo,outbound,sun_ph,10:20,fast,,
+central-mui-wo,outbound,sun_ph,11:00,slow,,
+central-mui-wo,outbound,sun_ph,12:00,fast,,
+central-mui-wo,outbound,sun_ph,13:00,slow,,
+central-mui-wo,outbound,sun_ph,13:40,fast,,
+central-mui-wo,outbound,sun_ph,14:20,fast,,
+central-mui-wo,outbound,sun_ph,15:00,slow,,
+central-mui-wo,outbound,sun_ph,15:40,fast,,
+central-mui-wo,outbound,sun_ph,16:20,fast,,
+central-mui-wo,outbound,sun_ph,17:00,slow,,
+central-mui-wo,outbound,sun_ph,17:40,fast,,
+central-mui-wo,outbound,sun_ph,18:20,fast,,
+central-mui-wo,outbound,sun_ph,19:00,slow,,
+central-mui-wo,outbound,sun_ph,19:40,fast,,
+central-mui-wo,outbound,sun_ph,20:20,fast,,
+central-mui-wo,outbound,sun_ph,21:00,slow,,
+central-mui-wo,outbound,sun_ph,21:40,fast,,
+central-mui-wo,outbound,sun_ph,22:20,fast,,
+central-mui-wo,outbound,sun_ph,23:00,slow,,
+central-mui-wo,outbound,sun_ph,23:40,fast,,
+central-mui-wo,outbound,sun_ph,00:30,fast,,
+central-mui-wo,outbound,sun_ph,03:00,fast,,
+central-mui-wo,inbound,sun_ph,06:20,fast,,
+central-mui-wo,inbound,sun_ph,06:30,slow,途經坪洲,Via Peng Chau
+central-mui-wo,inbound,sun_ph,07:05,fast,,
+central-mui-wo,inbound,sun_ph,08:00,slow,,
+central-mui-wo,inbound,sun_ph,08:40,fast,,
+central-mui-wo,inbound,sun_ph,09:20,fast,,
+central-mui-wo,inbound,sun_ph,10:00,slow,,
+central-mui-wo,inbound,sun_ph,10:40,fast,,
+central-mui-wo,inbound,sun_ph,11:20,fast,,
+central-mui-wo,inbound,sun_ph,12:00,slow,,
+central-mui-wo,inbound,sun_ph,12:40,fast,,
+central-mui-wo,inbound,sun_ph,13:20,fast,,
+central-mui-wo,inbound,sun_ph,14:00,slow,,
+central-mui-wo,inbound,sun_ph,14:40,fast,,
+central-mui-wo,inbound,sun_ph,15:20,fast,,
+central-mui-wo,inbound,sun_ph,16:00,slow,,
+central-mui-wo,inbound,sun_ph,16:40,fast,,
+central-mui-wo,inbound,sun_ph,17:20,fast,,
+central-mui-wo,inbound,sun_ph,18:00,slow,,
+central-mui-wo,inbound,sun_ph,18:40,fast,,
+central-mui-wo,inbound,sun_ph,19:20,fast,,
+central-mui-wo,inbound,sun_ph,20:00,slow,,
+central-mui-wo,inbound,sun_ph,20:40,fast,,
+central-mui-wo,inbound,sun_ph,21:20,fast,,
+central-mui-wo,inbound,sun_ph,22:00,slow,,
+central-mui-wo,inbound,sun_ph,22:50,fast,,
+central-mui-wo,inbound,sun_ph,23:30,fast,,
+central-mui-wo,inbound,sun_ph,03:40,fast,,
+central-ping-chau,outbound,mon_sat,07:00,slow,,
+central-ping-chau,outbound,mon_sat,07:40,slow,,
+central-ping-chau,outbound,mon_sat,08:00,fast,,
+central-ping-chau,outbound,mon_sat,08:30,slow,,
+central-ping-chau,outbound,mon_sat,09:15,fast,,
+central-ping-chau,outbound,mon_sat,10:00,slow,,
+central-ping-chau,outbound,mon_sat,10:45,fast,,
+central-ping-chau,outbound,mon_sat,11:30,slow,,
+central-ping-chau,outbound,mon_sat,12:15,fast,,
+central-ping-chau,outbound,mon_sat,13:00,slow,,
+central-ping-chau,outbound,mon_sat,13:45,fast,,
+central-ping-chau,outbound,mon_sat,14:30,slow,,
+central-ping-chau,outbound,mon_sat,15:15,fast,,
+central-ping-chau,outbound,mon_sat,16:10,fast,,
+central-ping-chau,outbound,mon_sat,16:45,slow,,
+central-ping-chau,outbound,mon_sat,17:30,slow,,
+central-ping-chau,outbound,mon_sat,18:00,fast,,
+central-ping-chau,outbound,mon_sat,18:30,slow,,
+central-ping-chau,outbound,mon_sat,19:00,slow,,
+central-ping-chau,outbound,mon_sat,19:30,fast,,
+central-ping-chau,outbound,mon_sat,20:00,fast,,
+central-ping-chau,outbound,mon_sat,20:30,slow,,
+central-ping-chau,outbound,mon_sat,21:15,fast,,
+central-ping-chau,outbound,mon_sat,22:00,slow,,
+central-ping-chau,outbound,mon_sat,22:45,fast,,
+central-ping-chau,outbound,mon_sat,23:30,slow,,
+central-ping-chau,outbound,mon_sat,00:30,fast,,
+central-ping-chau,outbound,mon_sat,03:00,fast,,
+central-ping-chau,inbound,mon_sat,05:30,slow,,
+central-ping-chau,inbound,mon_sat,06:15,slow,,
+central-ping-chau,inbound,mon_sat,07:00,slow,,
+central-ping-chau,inbound,mon_sat,07:25,fast,,
+central-ping-chau,inbound,mon_sat,07:45,slow,,
+central-ping-chau,inbound,mon_sat,08:20,slow,,
+central-ping-chau,inbound,mon_sat,08:35,fast,,
+central-ping-chau,inbound,mon_sat,09:15,slow,,
+central-ping-chau,inbound,mon_sat,10:00,fast,,
+central-ping-chau,inbound,mon_sat,10:45,slow,,
+central-ping-chau,inbound,mon_sat,11:30,fast,,
+central-ping-chau,inbound,mon_sat,12:15,slow,,
+central-ping-chau,inbound,mon_sat,13:00,fast,,
+central-ping-chau,inbound,mon_sat,13:45,slow,,
+central-ping-chau,inbound,mon_sat,14:30,fast,,
+central-ping-chau,inbound,mon_sat,15:15,slow,,
+central-ping-chau,inbound,mon_sat,16:00,fast,,
+central-ping-chau,inbound,mon_sat,16:55,slow,,
+central-ping-chau,inbound,mon_sat,17:25,fast,,
+central-ping-chau,inbound,mon_sat,18:15,slow,,
+central-ping-chau,inbound,mon_sat,18:50,fast,,
+central-ping-chau,inbound,mon_sat,19:45,slow,,
+central-ping-chau,inbound,mon_sat,20:30,fast,,
+central-ping-chau,inbound,mon_sat,21:15,slow,,
+central-ping-chau,inbound,mon_sat,22:05,fast,,
+central-ping-chau,inbound,mon_sat,22:45,slow,,
+central-ping-chau,inbound,mon_sat,23:30,fast,,
+central-ping-chau,inbound,mon_sat,03:40,fast,,
+central-ping-chau,outbound,sun_ph,00:30,slow,,
+central-ping-chau,outbound,sun_ph,03:00,fast,,
+central-ping-chau,outbound,sun_ph,07:00,fast,,
+central-ping-chau,outbound,sun_ph,07:50,slow,,
+central-ping-chau,outbound,sun_ph,08:40,fast,,
+central-ping-chau,outbound,sun_ph,09:30,slow,,
+central-ping-chau,outbound,sun_ph,10:20,fast,,
+central-ping-chau,outbound,sun_ph,11:05,slow,,
+central-ping-chau,outbound,sun_ph,12:00,fast,,
+central-ping-chau,outbound,sun_ph,12:45,slow,,
+central-ping-chau,outbound,sun_ph,13:40,fast,,
+central-ping-chau,outbound,sun_ph,14:30,slow,,
+central-ping-chau,outbound,sun_ph,15:20,fast,,
+central-ping-chau,outbound,sun_ph,16:10,slow,,
+central-ping-chau,outbound,sun_ph,17:00,fast,,
+central-ping-chau,outbound,sun_ph,17:50,slow,,
+central-ping-chau,outbound,sun_ph,18:40,fast,,
+central-ping-chau,outbound,sun_ph,19:30,slow,,
+central-ping-chau,outbound,sun_ph,20:20,fast,,
+central-ping-chau,outbound,sun_ph,21:15,slow,,
+central-ping-chau,outbound,sun_ph,22:00,fast,,
+central-ping-chau,outbound,sun_ph,22:50,slow,,
+central-ping-chau,outbound,sun_ph,23:40,fast,,
+central-ping-chau,outbound,sun_ph,05:30,fast,,
+central-ping-chau,outbound,sun_ph,06:30,fast,,
+central-ping-chau,outbound,sun_ph,07:00,slow,,
+central-ping-chau,outbound,sun_ph,07:50,fast,,
+central-ping-chau,outbound,sun_ph,08:40,slow,,
+central-ping-chau,outbound,sun_ph,09:30,fast,,
+central-ping-chau,outbound,sun_ph,10:20,slow,,
+central-ping-chau,outbound,sun_ph,11:10,fast,,
+central-ping-chau,outbound,sun_ph,11:50,slow,,
+central-ping-chau,outbound,sun_ph,12:50,fast,,
+central-ping-chau,outbound,sun_ph,13:30,slow,,
+central-ping-chau,outbound,sun_ph,14:30,fast,,
+central-ping-chau,outbound,sun_ph,15:20,slow,,
+central-ping-chau,outbound,sun_ph,16:10,fast,,
+central-ping-chau,outbound,sun_ph,17:00,slow,,
+central-ping-chau,outbound,sun_ph,17:50,fast,,
+central-ping-chau,outbound,sun_ph,18:40,slow,,
+central-ping-chau,outbound,sun_ph,19:30,fast,,
+central-ping-chau,outbound,sun_ph,18:20,slow,,
+central-ping-chau,outbound,sun_ph,21:15,fast,,
+central-ping-chau,outbound,sun_ph,22:00,slow,,
+central-ping-chau,outbound,sun_ph,22:50,fast,,
+central-ping-chau,outbound,sun_ph,23:35,slow,,
+central-ping-chau,outbound,sun_ph,03:40,fast,,
+ping-chau-hei-ling-chau,outbound,mon_sat,09:45,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,11:15,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,12:45,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,14:15,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,15:45,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,18:30,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,20:00,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,21:45,slow,,
+ping-chau-hei-ling-chau,outbound,mon_sat,01:00,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,07:05,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,09:45,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,11:15,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,12:45,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,14:15,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,15:45,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,18:40,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,20:10,slow,,
+ping-chau-hei-ling-chau,inbound,mon_sat,21:55,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,07:30,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,09:10,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,10:50,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,12:30,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,14:10,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,15:50,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,17:30,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,19:10,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,20:50,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,22:30,slow,,
+ping-chau-hei-ling-chau,outbound,sun_ph,00:10,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,06:10,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,07:40,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,09:20,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,11:00,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,12:40,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,14:20,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,16:00,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,17:40,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,19:20,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,21:00,slow,,
+ping-chau-hei-ling-chau,inbound,sun_ph,22:40,slow,,
+central-yung-shue-wan,outbound,mon_sat,06:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,07:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,07:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,07:50,slow,,
+central-yung-shue-wan,outbound,mon_sat,08:10,slow,,
+central-yung-shue-wan,outbound,mon_sat,08:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,08:50,slow,,
+central-yung-shue-wan,outbound,mon_sat,09:10,slow,,
+central-yung-shue-wan,outbound,mon_sat,09:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,10:10,slow,,
+central-yung-shue-wan,outbound,mon_sat,11:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,12:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,13:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,13:45,slow,,
+central-yung-shue-wan,outbound,mon_sat,14:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,15:15,slow,,
+central-yung-shue-wan,outbound,mon_sat,15:50,slow,,
+central-yung-shue-wan,outbound,mon_sat,16:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,17:20,slow,,
+central-yung-shue-wan,outbound,mon_sat,17:40,slow,,
+central-yung-shue-wan,outbound,mon_sat,18:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,18:20,slow,,
+central-yung-shue-wan,outbound,mon_sat,18:40,slow,,
+central-yung-shue-wan,outbound,mon_sat,19:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,19:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,20:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,20:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,21:00,slow,,
+central-yung-shue-wan,outbound,mon_sat,21:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,22:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,23:30,slow,,
+central-yung-shue-wan,outbound,mon_sat,00:30,slow,,
+central-yung-shue-wan,outbound,sat,02:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,05:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,06:20,slow,,
+central-yung-shue-wan,inbound,mon_sat,06:40,slow,,
+central-yung-shue-wan,inbound,mon_sat,07:00,slow,,
+central-yung-shue-wan,inbound,mon_sat,07:20,slow,,
+central-yung-shue-wan,inbound,mon_sat,07:40,slow,,
+central-yung-shue-wan,inbound,mon_sat,08:00,slow,,
+central-yung-shue-wan,inbound,mon_sat,08:20,slow,,
+central-yung-shue-wan,inbound,mon_sat,08:40,slow,,
+central-yung-shue-wan,inbound,mon_sat,09:00,slow,,
+central-yung-shue-wan,inbound,mon_sat,09:20,slow,,
+central-yung-shue-wan,inbound,mon_sat,09:40,slow,,
+central-yung-shue-wan,inbound,mon_sat,10:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,11:20,slow,,
+central-yung-shue-wan,inbound,mon_sat,12:00,slow,,
+central-yung-shue-wan,inbound,mon_sat,13:00,slow,,
+central-yung-shue-wan,inbound,mon_sat,13:45,slow,,
+central-yung-shue-wan,inbound,mon_sat,14:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,15:15,slow,,
+central-yung-shue-wan,inbound,mon_sat,16:00,slow,,
+central-yung-shue-wan,inbound,mon_sat,16:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,17:15,slow,,
+central-yung-shue-wan,inbound,mon_sat,17:50,slow,,
+central-yung-shue-wan,inbound,mon_sat,18:10,slow,,
+central-yung-shue-wan,inbound,mon_sat,18:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,18:50,slow,,
+central-yung-shue-wan,inbound,mon_sat,19:20,slow,,
+central-yung-shue-wan,inbound,mon_sat,20:00,slow,,
+central-yung-shue-wan,inbound,mon_sat,20:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,21:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,22:30,slow,,
+central-yung-shue-wan,inbound,mon_sat,23:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,07:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,08:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,08:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,09:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,09:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,10:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,10:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,11:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,11:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,12:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,12:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,13:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,13:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,14:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,14:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,15:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,16:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,16:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,17:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,17:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,18:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,18:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,19:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,19:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,20:00,slow,,
+central-yung-shue-wan,inbound,sun_ph,20:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,21:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,22:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,23:30,slow,,
+central-yung-shue-wan,inbound,sun_ph,00:30,slow,,
+central-sok-kwu-wan,outbound,mon_sat,07:20,slow,,
+central-sok-kwu-wan,outbound,mon_sat,08:35,slow,,
+central-sok-kwu-wan,outbound,mon_sat,10:20,slow,,
+central-sok-kwu-wan,outbound,mon_sat,11:50,slow,,
+central-sok-kwu-wan,outbound,mon_sat,13:50,slow,,
+central-sok-kwu-wan,outbound,mon_sat,15:20,slow,,
+central-sok-kwu-wan,outbound,mon_sat,16:50,slow,,
+central-sok-kwu-wan,outbound,mon_sat,18:45,slow,,
+central-sok-kwu-wan,outbound,mon_sat,20:20,slow,,
+central-sok-kwu-wan,outbound,mon_sat,21:50,slow,,
+central-sok-kwu-wan,outbound,mon_sat,23:30,slow,,
+central-sok-kwu-wan,inbound,mon_sat,06:40,slow,,
+central-sok-kwu-wan,inbound,mon_sat,08:00,slow,,
+central-sok-kwu-wan,inbound,mon_sat,09:35,slow,,
+central-sok-kwu-wan,inbound,mon_sat,11:05,slow,,
+central-sok-kwu-wan,inbound,mon_sat,12:40,slow,,
+central-sok-kwu-wan,inbound,mon_sat,14:35,slow,,
+central-sok-kwu-wan,inbound,mon_sat,16:05,slow,,
+central-sok-kwu-wan,inbound,mon_sat,17:35,slow,,
+central-sok-kwu-wan,inbound,mon_sat,19:35,slow,,
+central-sok-kwu-wan,inbound,mon_sat,21:05,slow,,
+central-sok-kwu-wan,inbound,mon_sat,22:40,slow,,
+central-sok-kwu-wan,outbound,sun_ph,07:20,slow,,
+central-sok-kwu-wan,outbound,sun_ph,08:35,slow,,
+central-sok-kwu-wan,outbound,sun_ph,10:20,slow,,
+central-sok-kwu-wan,outbound,sun_ph,11:50,slow,,
+central-sok-kwu-wan,outbound,sun_ph,12:50,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,outbound,sun_ph,13:50,slow,,
+central-sok-kwu-wan,outbound,sun_ph,14:35,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,outbound,sun_ph,15:20,slow,,
+central-sok-kwu-wan,outbound,sun_ph,16:05,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,outbound,sun_ph,16:50,slow,,
+central-sok-kwu-wan,outbound,sun_ph,17:35,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,outbound,sun_ph,18:45,slow,,
+central-sok-kwu-wan,outbound,sun_ph,19:20,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,outbound,sun_ph,20:20,slow,,
+central-sok-kwu-wan,outbound,sun_ph,21:50,slow,,
+central-sok-kwu-wan,outbound,sun_ph,23:30,slow,,
+central-sok-kwu-wan,inbound,sun_ph,06:40,slow,,
+central-sok-kwu-wan,inbound,sun_ph,08:00,slow,,
+central-sok-kwu-wan,inbound,sun_ph,09:35,slow,,
+central-sok-kwu-wan,inbound,sun_ph,11:05,slow,,
+central-sok-kwu-wan,inbound,sun_ph,12:40,slow,,
+central-sok-kwu-wan,inbound,sun_ph,13:50,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,inbound,sun_ph,14:35,slow,,
+central-sok-kwu-wan,inbound,sun_ph,15:20,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,inbound,sun_ph,16:05,slow,,
+central-sok-kwu-wan,inbound,sun_ph,16:50,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,inbound,sun_ph,17:35,slow,,
+central-sok-kwu-wan,inbound,sun_ph,18:35,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,inbound,sun_ph,19:35,slow,,
+central-sok-kwu-wan,inbound,sun_ph,20:20,slow,* 加班服務 (視乎需求),Additional sailing subject to demand
+central-sok-kwu-wan,inbound,sun_ph,21:05,slow,,
+central-sok-kwu-wan,inbound,sun_ph,22:40,slow,,
+central-discovery-bay,outbound,mon_fri,06:30,slow,,
+central-discovery-bay,outbound,mon_fri,07:00,slow,,
+central-discovery-bay,outbound,mon_fri,07:20,slow,,
+central-discovery-bay,outbound,mon_fri,07:40,slow,,
+central-discovery-bay,outbound,mon_fri,08:00,slow,,
+central-discovery-bay,outbound,mon_fri,08:20,slow,,
+central-discovery-bay,outbound,mon_fri,08:40,slow,,
+central-discovery-bay,outbound,mon_fri,09:10,slow,,
+central-discovery-bay,outbound,mon_fri,09:40,slow,,
+central-discovery-bay,outbound,mon_fri,10:10,slow,,
+central-discovery-bay,outbound,mon_fri,10:40,slow,,
+central-discovery-bay,outbound,mon_fri,11:10,slow,,
+central-discovery-bay,outbound,mon_fri,11:40,slow,,
+central-discovery-bay,outbound,mon_fri,12:10,slow,,
+central-discovery-bay,outbound,mon_fri,12:40,slow,,
+central-discovery-bay,outbound,mon_fri,13:10,slow,,
+central-discovery-bay,outbound,mon_fri,13:40,slow,,
+central-discovery-bay,outbound,mon_fri,14:10,slow,,
+central-discovery-bay,outbound,mon_fri,14:40,slow,,
+central-discovery-bay,outbound,mon_fri,15:10,slow,,
+central-discovery-bay,outbound,mon_fri,15:30,slow,,
+central-discovery-bay,outbound,mon_fri,15:50,slow,,
+central-discovery-bay,outbound,mon_fri,16:10,slow,,
+central-discovery-bay,outbound,mon_fri,16:40,slow,,
+central-discovery-bay,outbound,mon_fri,17:10,slow,,
+central-discovery-bay,outbound,mon_fri,17:40,slow,,
+central-discovery-bay,outbound,mon_fri,18:10,slow,,
+central-discovery-bay,outbound,mon_fri,18:30,slow,,
+central-discovery-bay,outbound,mon_fri,18:50,slow,,
+central-discovery-bay,outbound,mon_fri,19:10,slow,,
+central-discovery-bay,outbound,mon_fri,19:30,slow,,
+central-discovery-bay,outbound,mon_fri,20:00,slow,,
+central-discovery-bay,outbound,mon_fri,20:30,slow,,
+central-discovery-bay,outbound,mon_fri,21:00,slow,,
+central-discovery-bay,outbound,mon_fri,21:30,slow,,
+central-discovery-bay,outbound,mon_fri,22:00,slow,,
+central-discovery-bay,outbound,mon_fri,22:30,slow,,
+central-discovery-bay,outbound,mon_fri,23:00,slow,,
+central-discovery-bay,outbound,mon_fri,23:30,slow,,
+central-discovery-bay,outbound,mon_fri,00:00,slow,,
+central-discovery-bay,inbound,mon_fri,06:00,slow,,
+central-discovery-bay,inbound,mon_fri,06:30,slow,,
+central-discovery-bay,inbound,mon_fri,06:45,slow,,
+central-discovery-bay,inbound,mon_fri,07:00,slow,,
+central-discovery-bay,inbound,mon_fri,07:15,slow,,
+central-discovery-bay,inbound,mon_fri,07:30,slow,,
+central-discovery-bay,inbound,mon_fri,07:45,slow,,
+central-discovery-bay,inbound,mon_fri,08:00,slow,,
+central-discovery-bay,inbound,mon_fri,08:15,slow,,
+central-discovery-bay,inbound,mon_fri,08:30,slow,,
+central-discovery-bay,inbound,mon_fri,08:50,slow,,
+central-discovery-bay,inbound,mon_fri,09:10,slow,,
+central-discovery-bay,inbound,mon_fri,09:40,slow,,
+central-discovery-bay,inbound,mon_fri,10:10,slow,,
+central-discovery-bay,inbound,mon_fri,10:40,slow,,
+central-discovery-bay,inbound,mon_fri,11:10,slow,,
+central-discovery-bay,inbound,mon_fri,11:40,slow,,
+central-discovery-bay,inbound,mon_fri,12:10,slow,,
+central-discovery-bay,inbound,mon_fri,12:40,slow,,
+central-discovery-bay,inbound,mon_fri,13:10,slow,,
+central-discovery-bay,inbound,mon_fri,13:40,slow,,
+central-discovery-bay,inbound,mon_fri,14:10,slow,,
+central-discovery-bay,inbound,mon_fri,14:40,slow,,
+central-discovery-bay,inbound,mon_fri,15:10,slow,,
+central-discovery-bay,inbound,mon_fri,15:40,slow,,
+central-discovery-bay,inbound,mon_fri,16:10,slow,,
+central-discovery-bay,inbound,mon_fri,16:40,slow,,
+central-discovery-bay,inbound,mon_fri,17:10,slow,,
+central-discovery-bay,inbound,mon_fri,17:40,slow,,
+central-discovery-bay,inbound,mon_fri,18:00,slow,,
+central-discovery-bay,inbound,mon_fri,18:20,slow,,
+central-discovery-bay,inbound,mon_fri,18:40,slow,,
+central-discovery-bay,inbound,mon_fri,19:00,slow,,
+central-discovery-bay,inbound,mon_fri,19:30,slow,,
+central-discovery-bay,inbound,mon_fri,20:00,slow,,
+central-discovery-bay,inbound,mon_fri,20:30,slow,,
+central-discovery-bay,inbound,mon_fri,21:00,slow,,
+central-discovery-bay,inbound,mon_fri,21:30,slow,,
+central-discovery-bay,inbound,mon_fri,22:00,slow,,
+central-discovery-bay,inbound,mon_fri,22:30,slow,,
+central-discovery-bay,inbound,mon_fri,23:00,slow,,
+central-discovery-bay,inbound,mon_fri,23:30,slow,,
+central-discovery-bay,inbound,mon_fri,00:00,slow,,
+central-discovery-bay,outbound,sat,06:30,slow,,
+central-discovery-bay,outbound,sat,07:00,slow,,
+central-discovery-bay,outbound,sat,07:30,slow,,
+central-discovery-bay,outbound,sat,08:00,slow,,
+central-discovery-bay,outbound,sat,08:30,slow,,
+central-discovery-bay,outbound,sat,08:50,slow,,
+central-discovery-bay,outbound,sat,09:10,slow,,
+central-discovery-bay,outbound,sat,09:30,slow,,
+central-discovery-bay,outbound,sat,10:00,slow,,
+central-discovery-bay,outbound,sat,10:30,slow,,
+central-discovery-bay,outbound,sat,11:00,slow,,
+central-discovery-bay,outbound,sat,11:30,slow,,
+central-discovery-bay,outbound,sat,12:00,slow,,
+central-discovery-bay,outbound,sat,12:30,slow,,
+central-discovery-bay,outbound,sat,13:00,slow,,
+central-discovery-bay,outbound,sat,13:30,slow,,
+central-discovery-bay,outbound,sat,14:00,slow,,
+central-discovery-bay,outbound,sat,14:30,slow,,
+central-discovery-bay,outbound,sat,15:00,slow,,
+central-discovery-bay,outbound,sat,15:30,slow,,
+central-discovery-bay,outbound,sat,16:00,slow,,
+central-discovery-bay,outbound,sat,16:30,slow,,
+central-discovery-bay,outbound,sat,17:00,slow,,
+central-discovery-bay,outbound,sat,17:30,slow,,
+central-discovery-bay,outbound,sat,18:00,slow,,
+central-discovery-bay,outbound,sat,18:30,slow,,
+central-discovery-bay,outbound,sat,19:00,slow,,
+central-discovery-bay,outbound,sat,19:30,slow,,
+central-discovery-bay,outbound,sat,20:00,slow,,
+central-discovery-bay,outbound,sat,20:30,slow,,
+central-discovery-bay,outbound,sat,21:00,slow,,
+central-discovery-bay,outbound,sat,21:30,slow,,
+central-discovery-bay,outbound,sat,22:00,slow,,
+central-discovery-bay,outbound,sat,22:30,slow,,
+central-discovery-bay,outbound,sat,23:00,slow,,
+central-discovery-bay,outbound,sat,23:30,slow,,
+central-discovery-bay,outbound,sat,22:00,slow,,
+central-discovery-bay,outbound,sat,22:30,slow,,
+central-discovery-bay,outbound,sat,23:00,slow,,
+central-discovery-bay,outbound,sat,23:30,slow,,
+central-discovery-bay,outbound,sat,00:00,slow,,
+central-discovery-bay,inbound,sat,06:00,slow,,
+central-discovery-bay,inbound,sat,06:30,slow,,
+central-discovery-bay,inbound,sat,07:00,slow,,
+central-discovery-bay,inbound,sat,07:20,slow,,
+central-discovery-bay,inbound,sat,07:40,slow,,
+central-discovery-bay,inbound,sat,08:00,slow,,
+central-discovery-bay,inbound,sat,08:15,slow,,
+central-discovery-bay,inbound,sat,08:30,slow,,
+central-discovery-bay,inbound,sat,08:45,slow,,
+central-discovery-bay,inbound,sat,09:00,slow,,
+central-discovery-bay,inbound,sat,09:30,slow,,
+central-discovery-bay,inbound,sat,10:00,slow,,
+central-discovery-bay,inbound,sat,10:30,slow,,
+central-discovery-bay,inbound,sat,11:00,slow,,
+central-discovery-bay,inbound,sat,11:30,slow,,
+central-discovery-bay,inbound,sat,12:00,slow,,
+central-discovery-bay,inbound,sat,12:30,slow,,
+central-discovery-bay,inbound,sat,13:00,slow,,
+central-discovery-bay,inbound,sat,13:30,slow,,
+central-discovery-bay,inbound,sat,14:00,slow,,
+central-discovery-bay,inbound,sat,14:30,slow,,
+central-discovery-bay,inbound,sat,15:00,slow,,
+central-discovery-bay,inbound,sat,15:30,slow,,
+central-discovery-bay,inbound,sat,16:00,slow,,
+central-discovery-bay,inbound,sat,16:30,slow,,
+central-discovery-bay,inbound,sat,17:00,slow,,
+central-discovery-bay,inbound,sat,17:30,slow,,
+central-discovery-bay,inbound,sat,18:00,slow,,
+central-discovery-bay,inbound,sat,18:30,slow,,
+central-discovery-bay,inbound,sat,19:00,slow,,
+central-discovery-bay,inbound,sat,19:30,slow,,
+central-discovery-bay,inbound,sat,20:00,slow,,
+central-discovery-bay,inbound,sat,20:30,slow,,
+central-discovery-bay,inbound,sat,21:00,slow,,
+central-discovery-bay,inbound,sat,21:30,slow,,
+central-discovery-bay,inbound,sat,22:00,slow,,
+central-discovery-bay,inbound,sat,22:30,slow,,
+central-discovery-bay,inbound,sat,23:00,slow,,
+central-discovery-bay,inbound,sat,23:30,slow,,
+central-discovery-bay,inbound,sat,00:00,slow,,
+central-discovery-bay,inbound,sat,22:30,slow,,
+central-discovery-bay,inbound,sat,23:00,slow,,
+central-discovery-bay,inbound,sat,23:30,slow,,
+central-discovery-bay,inbound,sat,00:00,slow,,
+central-discovery-bay,inbound,sat,00:30,slow,,
+central-discovery-bay,inbound,sat,01:00,slow,,
+central-discovery-bay,outbound,sun_ph,00:00,slow,,
+central-discovery-bay,outbound,sun_ph,00:30,slow,,
+central-discovery-bay,outbound,sun_ph,01:00,slow,,
+central-discovery-bay,outbound,sun_ph,06:30,slow,,
+central-discovery-bay,outbound,sun_ph,07:10,slow,,
+central-discovery-bay,outbound,sun_ph,07:50,slow,,
+central-discovery-bay,outbound,sun_ph,08:30,slow,,
+central-discovery-bay,outbound,sun_ph,09:00,slow,,
+central-discovery-bay,outbound,sun_ph,09:30,slow,,
+central-discovery-bay,outbound,sun_ph,10:00,slow,,
+central-discovery-bay,outbound,sun_ph,10:30,slow,,
+central-discovery-bay,outbound,sun_ph,11:00,slow,,
+central-discovery-bay,outbound,sun_ph,11:30,slow,特別班次,Special departures
+central-discovery-bay,outbound,sun_ph,12:00,slow,,
+central-discovery-bay,outbound,sun_ph,12:30,slow,,
+central-discovery-bay,outbound,sun_ph,13:00,slow,特別班次,Special departures
+central-discovery-bay,outbound,sun_ph,13:30,slow,,
+central-discovery-bay,outbound,sun_ph,14:00,slow,,
+central-discovery-bay,outbound,sun_ph,14:30,slow,,
+central-discovery-bay,outbound,sun_ph,15:00,slow,,
+central-discovery-bay,outbound,sun_ph,15:30,slow,特別班次,Special departures
+central-discovery-bay,outbound,sun_ph,16:00,slow,,
+central-discovery-bay,outbound,sun_ph,16:30,slow,,
+central-discovery-bay,outbound,sun_ph,17:00,slow,,
+central-discovery-bay,outbound,sun_ph,17:30,slow,,
+central-discovery-bay,outbound,sun_ph,18:00,slow,特別班次,Special departures
+central-discovery-bay,outbound,sun_ph,18:30,slow,,
+central-discovery-bay,outbound,sun_ph,19:00,slow,,
+central-discovery-bay,outbound,sun_ph,19:30,slow,,
+central-discovery-bay,outbound,sun_ph,20:00,slow,,
+central-discovery-bay,outbound,sun_ph,20:30,slow,,
+central-discovery-bay,outbound,sun_ph,21:00,slow,,
+central-discovery-bay,outbound,sun_ph,21:30,slow,,
+central-discovery-bay,outbound,sun_ph,22:00,slow,,
+central-discovery-bay,outbound,sun_ph,22:30,slow,,
+central-discovery-bay,outbound,sun_ph,23:00,slow,,
+central-discovery-bay,outbound,sun_ph,23:30,slow,,
+central-discovery-bay,outbound,sun_ph,23:00,slow,,
+central-discovery-bay,outbound,sun_ph,23:30,slow,,
+central-discovery-bay,outbound,sun_ph,00:00,slow,,
+central-discovery-bay,outbound,sun_ph,22:30,slow,,
+central-discovery-bay,outbound,sun_ph,23:00,slow,,
+central-discovery-bay,outbound,sun_ph,23:30,slow,,
+central-discovery-bay,outbound,sun_ph,00:00,slow,,
+central-discovery-bay,outbound,sun_ph,00:30,slow,,
+central-discovery-bay,outbound,sun_ph,01:00,slow,,
+central-discovery-bay,inbound,sun_ph,00:00,slow,,
+central-discovery-bay,inbound,sun_ph,00:30,slow,,
+central-discovery-bay,inbound,sun_ph,06:00,slow,,
+central-discovery-bay,inbound,sun_ph,06:40,slow,,
+central-discovery-bay,inbound,sun_ph,07:20,slow,,
+central-discovery-bay,inbound,sun_ph,08:00,slow,,
+central-discovery-bay,inbound,sun_ph,08:30,slow,,
+central-discovery-bay,inbound,sun_ph,09:00,slow,,
+central-discovery-bay,inbound,sun_ph,09:30,slow,,
+central-discovery-bay,inbound,sun_ph,10:00,slow,,
+central-discovery-bay,inbound,sun_ph,10:30,slow,,
+central-discovery-bay,inbound,sun_ph,11:00,slow,特別班次,Special departures
+central-discovery-bay,inbound,sun_ph,11:30,slow,,
+central-discovery-bay,inbound,sun_ph,12:00,slow,,
+central-discovery-bay,inbound,sun_ph,12:30,slow,特別班次,Special departures
+central-discovery-bay,inbound,sun_ph,13:00,slow,,
+central-discovery-bay,inbound,sun_ph,13:30,slow,,
+central-discovery-bay,inbound,sun_ph,14:00,slow,,
+central-discovery-bay,inbound,sun_ph,14:30,slow,,
+central-discovery-bay,inbound,sun_ph,15:00,slow,特別班次,Special departures
+central-discovery-bay,inbound,sun_ph,15:30,slow,,
+central-discovery-bay,inbound,sun_ph,16:00,slow,,
+central-discovery-bay,inbound,sun_ph,16:30,slow,,
+central-discovery-bay,inbound,sun_ph,17:00,slow,,
+central-discovery-bay,inbound,sun_ph,17:30,slow,,
+central-discovery-bay,inbound,sun_ph,18:00,slow,,
+central-discovery-bay,inbound,sun_ph,18:30,slow,,
+central-discovery-bay,inbound,sun_ph,19:00,slow,,
+central-discovery-bay,inbound,sun_ph,19:30,slow,,
+central-discovery-bay,inbound,sun_ph,20:00,slow,,
+central-discovery-bay,inbound,sun_ph,20:30,slow,,
+central-discovery-bay,inbound,sun_ph,21:00,slow,,
+central-discovery-bay,inbound,sun_ph,21:30,slow,,
+central-discovery-bay,inbound,sun_ph,22:00,slow,,
+central-discovery-bay,inbound,sun_ph,22:30,slow,,
+central-discovery-bay,inbound,sun_ph,23:00,slow,,
+central-discovery-bay,inbound,sun_ph,23:30,slow,,
+central-ma-wan,outbound,mon_fri,07:00,slow,,
+central-ma-wan,outbound,mon_fri,07:30,slow,,
+central-ma-wan,outbound,mon_fri,07:50,slow,,
+central-ma-wan,outbound,mon_fri,08:30,slow,,
+central-ma-wan,outbound,mon_fri,08:50,slow,,
+central-ma-wan,outbound,mon_fri,09:30,slow,,
+central-ma-wan,outbound,mon_fri,10:00,slow,,
+central-ma-wan,outbound,mon_fri,10:30,slow,,
+central-ma-wan,outbound,mon_fri,12:30,slow,,
+central-ma-wan,outbound,mon_fri,14:30,slow,,
+central-ma-wan,outbound,mon_fri,16:30,slow,,
+central-ma-wan,outbound,mon_fri,17:30,slow,,
+central-ma-wan,outbound,mon_fri,18:00,slow,,
+central-ma-wan,outbound,mon_fri,18:30,slow,,
+central-ma-wan,outbound,mon_fri,19:00,slow,,
+central-ma-wan,outbound,mon_fri,19:30,slow,,
+central-ma-wan,outbound,mon_fri,20:00,slow,,
+central-ma-wan,outbound,mon_fri,20:30,slow,,
+central-ma-wan,outbound,mon_fri,21:30,slow,,
+central-ma-wan,inbound,mon_fri,06:30,slow,,
+central-ma-wan,inbound,mon_fri,07:00,slow,,
+central-ma-wan,inbound,mon_fri,07:20,slow,,
+central-ma-wan,inbound,mon_fri,08:00,slow,,
+central-ma-wan,inbound,mon_fri,08:20,slow,,
+central-ma-wan,inbound,mon_fri,09:00,slow,,
+central-ma-wan,inbound,mon_fri,09:30,slow,,
+central-ma-wan,inbound,mon_fri,10:00,slow,,
+central-ma-wan,inbound,mon_fri,12:00,slow,,
+central-ma-wan,inbound,mon_fri,14:00,slow,,
+central-ma-wan,inbound,mon_fri,16:00,slow,,
+central-ma-wan,inbound,mon_fri,17:00,slow,,
+central-ma-wan,inbound,mon_fri,17:30,slow,,
+central-ma-wan,inbound,mon_fri,18:00,slow,,
+central-ma-wan,inbound,mon_fri,18:30,slow,,
+central-ma-wan,inbound,mon_fri,19:00,slow,,
+central-ma-wan,inbound,mon_fri,19:30,slow,,
+central-ma-wan,inbound,mon_fri,20:00,slow,,
+central-ma-wan,inbound,mon_fri,21:00,slow,,
+central-ma-wan,outbound,sat_sun_ph,08:30,slow,,
+central-ma-wan,outbound,sat_sun_ph,10:30,slow,,
+central-ma-wan,outbound,sat_sun_ph,12:30,slow,,
+central-ma-wan,outbound,sat_sun_ph,14:30,slow,,
+central-ma-wan,outbound,sat_sun_ph,16:30,slow,,
+central-ma-wan,outbound,sat_sun_ph,18:30,slow,,
+central-ma-wan,outbound,sat_sun_ph,20:30,slow,,
+central-ma-wan,inbound,sat_sun_ph,08:00,slow,,
+central-ma-wan,inbound,sat_sun_ph,10:00,slow,,
+central-ma-wan,inbound,sat_sun_ph,12:00,slow,,
+central-ma-wan,inbound,sat_sun_ph,14:00,slow,,
+central-ma-wan,inbound,sat_sun_ph,16:00,slow,,
+central-ma-wan,inbound,sat_sun_ph,18:00,slow,,
+central-ma-wan,inbound,sat_sun_ph,20:00,slow,,
