@@ -38,14 +38,24 @@ const displayDest = isEn ? route.destination_en : route.destination_zh;
 <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>{displayOrigin} {isEn ? 'to' : '往'} {displayDest} | {t['site.title']}</title>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <title>{t['site.title']} - Realtime</title>
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#111318" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Ferry Easy" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3DVHX7B693"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-3DVHX7B693');
     </script>
+    
     <link href="https://fonts.googleapis.com" rel="preconnect"/>
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet"/>
@@ -54,14 +64,7 @@ const displayDest = isEn ? route.destination_en : route.destination_zh;
         ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: #111318; }
         ::-webkit-scrollbar-thumb { background: #282e39; border-radius: 3px; }
-        .hidden-row { display: none !important; }
     </style>
-    <link rel="manifest" href="/manifest.json" />
-    <meta name="theme-color" content="#111318" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="Ferry Easy" />
-    <link rel="apple-touch-icon" href="/icon.png" />
 </head>
 
 <body class="font-display bg-[#111318] text-white antialiased min-h-screen pb-10">
