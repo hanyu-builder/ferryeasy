@@ -40,6 +40,17 @@ const uniqueLocations = [...allLocations].sort();
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     
     <title>{t['site.title']} - Realtime</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ferryeasy.app/" />
+    <meta property="og:title" content="Ferry Easy - Realtime Ferry Schedule" />
+    <meta property="og:description" content="Check next departures for Central, Cheung Chau, Mui Wo and more. 實時查詢中環、長洲、梅窩等渡輪班次。" />
+    <meta property="og:image" content="https://ferryeasy.app/og-image.jpg" />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://ferryeasy.app/" />
+    <meta property="twitter:title" content="Ferry Easy - Realtime Ferry Schedule" />
+    <meta property="twitter:description" content="Check next departures for Central, Cheung Chau, Mui Wo and more." />
+    <meta property="twitter:image" content="https://ferryeasy.app/og-image.jpg" />
 
     <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="#111318" />
@@ -388,5 +399,19 @@ const uniqueLocations = [...allLocations].sort();
         restoreState(); 
 
     </script>
+    <footer class="mt-16 py-10 border-t border-[#282e39] text-center">
+        <p class="text-[#555e70] text-xs mb-4">
+            {isEn ? 'Data for reference only.' : '資料僅供參考。'}
+        </p>
+
+        <a href={`/${lang}/feedback`} class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[#1c1f27] border border-[#3b4354] text-[#9da6b9] text-sm font-bold hover:text-white hover:border-blue-500 transition-all">
+            <span class="material-symbols-outlined text-[18px]">chat_bubble</span>
+            {isEn ? 'Send Feedback' : '提供意見'}
+        </a>
+
+        <p class="text-[#3b4354] text-[10px] mt-6">
+            © Ferry Easy
+        </p>
+    </footer>
 </body>
 </html>
