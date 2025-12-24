@@ -1,0 +1,37 @@
+---
+// src/pages/index.astro
+// 這是一個「空殼」頁面，目的是讓 Astro 有入口可以執行 Middleware
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferry Easy</title>
+    
+    <style>
+        html, body {
+            background-color: #111318;
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; /* 防止轉址期間滾動 */
+        }
+    </style>
+
+    <script>
+        // 簡單的語言偵測
+        const lang = navigator.language.toLowerCase();
+        // 如果瀏覽器語言包含 'zh' (如 zh-TW, zh-HK)，去中文版，否則去英文版
+        const target = lang.includes('zh') ? '/zh-hk/' : '/en/';
+        
+        // 立即跳轉
+        window.location.replace(target);
+    </script>
+    
+    <meta http-equiv="refresh" content="0;url=/en/">
+</head>
+<body>
+    </body>
+</html>
